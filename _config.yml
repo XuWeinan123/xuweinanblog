@@ -103,6 +103,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://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@github.com/XuWeinan123/XuWeinan123.github.io.git
+  repository: https://github.com/XuWeinan123/XuWeinan123.github.io.git
   branch: master
 # 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
+# PpT-zXn-mfY-uD2
